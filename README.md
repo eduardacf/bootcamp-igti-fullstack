@@ -1,6 +1,5 @@
-<p align="center">
-# Bootcamp: Desenvolvedor Full Stack
-    </p>
+# Bootcamp Desenvolvedor Full Stack - IGTI
+
 
 <p align="center">
     <img src="https://www.igti.com.br/wp-content/uploads/2020/02/parceirosAtivo-114.png" alt="Image"/>
