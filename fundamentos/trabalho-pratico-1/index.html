@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trabalho prático 1</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <h1>Seletor de Cores</h1>
+    <div id="border">
+      <div id="range-cor">
+        <label for="range-r">(R) Vermelho:</label>
+        <input id="range-vermelho" type="range" min="0" max="255" />
+        <input id="text-r" type="text" value="0" disabled />
+      </div>
+
+      <div id="range-cor">
+        <label for="range-g">(G) Verde: </label>
+        <input id="range-verde" type="range" min="0" max="255" />
+        <input type="text" id="text-g" value="0" disabled />
+      </div>
+
+      <div id="range-cor">
+        <label for="range-b">(B) Azul:</label>
+        <input id="range-azul" type="range" min="0" max="255" />
+        <input type="text" id="text-b" value="0" disabled />
+      </div>
+      <div id="result"></div>
+    </div>
+  </body>
+  <script src="./js/script.js"></script>
+</html>

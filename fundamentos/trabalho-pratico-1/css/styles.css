@@ -1,0 +1,50 @@
+body {
+  padding: 40px;
+}
+
+h1 {
+  font-family: monospace;
+  margin-left: 450px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 500px;
+}
+
+#border {
+  border-style: double;
+  width: 60%;
+  position: fixed;
+}
+#range-cor {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  margin: 30px;
+}
+
+#range-cor + #range-cor {
+  margin-top: 30px;
+}
+
+#range-cor label {
+  width: 120px;
+}
+#range-cor input[type='range'] {
+  width: 190vh;
+}
+
+#range-cor input[type='text'] {
+  width: 100px;
+  margin-left: 20px;
+}
+
+#result {
+  width: 200px;
+  height: 200px;
+  border: solid 1px #000;
+  margin: auto auto 20px auto;
+}
