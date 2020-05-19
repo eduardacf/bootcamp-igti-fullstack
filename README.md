@@ -1,9 +1,16 @@
-##<center>Bootcamp Desenvolvedor Full Stack - IGTI</center>
+# Bootcamp: Desenvolvedor Full Stack
+
+<p align="center">
+    <img src="https://www.igti.com.br/wp-content/uploads/2020/02/parceirosAtivo-114.png" alt="Image"/>
+</p>Bootcamp Desenvolvedor Full Stack - IGTI</center>
 
 
-<center>[](https://user-images.githubusercontent.com/6156775/82163078-3a069580-987f-11ea-85ab-cbaf54b02868.png)![](https://user-images.githubusercontent.com/6156775/82163078-3a069580-987f-11ea-85ab-cbaf54b02868.png)</center>
 
-<br>
+<p align="center">
+    <img src="https://www.igti.com.br/wp-content/uploads/2020/02/parceirosAtivo-114.png" alt="Image"/>
+</p>
+
+
 *Repositório destinado para armazenar conteúdos do Bootcamp de Desenvolvedor Full Stack da IGTI.*
 
 ### Conteúdo Programático:
