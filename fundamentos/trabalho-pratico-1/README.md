@@ -1,8 +1,11 @@
 ## Trabalho Prático - Módulo 1
 
-(video mostrando funcionamento)
+![](https://github.com/eduardacf/bootcamp-igti-fullstack/blob/master/fundamentos/img/preview.gif)
 
 - **Construção utilizando HTML, CSS e JavaScript puro, de uma aplicação para a visualização de cores a partir da escala RGB.**
+------------
+
+#### Objetivos:
 
 * Utilização de elementos HTML.
 * Utilização de CSS.
@@ -14,7 +17,7 @@
 
 ---
 
-### O que foi utilizado para o desenvolvimento
+### O que foi utilizado para o desenvolvimento:
 
 - Live-Server
 - JavaScript
