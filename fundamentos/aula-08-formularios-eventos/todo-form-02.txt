@@ -1,0 +1,6 @@
+Check ✓
+
+(✓) Utilizar o formulário de exemplo.
+(✓) Tornar o formulário mais interativo
+   através da implementação de alguns eventos
+(✓) Exemplificar o event.preventDefault()

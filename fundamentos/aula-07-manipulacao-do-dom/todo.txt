@@ -1,0 +1,9 @@
+Capítulo 03 - Aula 01
+=====================
+
+Check ✓
+
+(✓) Trazer último projeto feito (currículo) e renomeá-lo para "aula"
+(✓) Manipular elementos com querySelector
+(✓) Manipular elementos com querySelectorAll
+(✓) Certificar-se de que foi manipulada a propriedade "textContent"

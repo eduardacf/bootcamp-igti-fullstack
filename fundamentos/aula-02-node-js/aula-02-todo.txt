@@ -1,0 +1,10 @@
+﻿Capítulo 01 - Aula 02
+=====================
+
+Check ✓
+
+(✓) Instalar versão do Node.js
+(✓) Recomendar a versão da aula e direcionar para o link
+   https://nodejs.org/en/download/releases/
+(✓) Testar instalação com "node -v"
+(✓) Mostrar execução de código JavaScript com Node

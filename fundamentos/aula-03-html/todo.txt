@@ -1,0 +1,15 @@
+﻿Check ✓
+
+(✓) Criar página HTML para montar um currículo
+(✓) Mostrar as seguintes tags
+  - h1
+  - img
+  - p
+  - ul li
+  - table tr td
+  - a - Linkedin: https://www.linkedin.com/in/rrgomide/
+  - div
+  - span
+  - strong
+  - em
+(✓) Mostrar diferença entre caminho absoluto x caminho relativo

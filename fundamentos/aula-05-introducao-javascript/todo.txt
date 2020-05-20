@@ -1,0 +1,6 @@
+﻿Check ✓
+
+(✓) Abrir HTML da aula05 do capítulo01
+(✓) Criar arquivo script.js na pasta js
+(✓) Vincular HTML ao JavaScript através da tag <script>
+(✓) Testar o funcionamento do JavaScript com console.log

@@ -1,0 +1,12 @@
+﻿Check ✓
+
+(✓) Copiar HTML da aula 04
+(✓) Criar pasta "css" e incluir "reset.css"
+(✓) Mostrar página com "reset.css"
+(✓) Mostrar CSS inline
+(✓) Mostrar CSS em <style>
+(✓) Criar arquivo style.css e vincular ao HTML
+() Mostrar exemplos de:
+  (✓) Estilização de texto
+  (✓) Estilização de cores
+  (✓) Posicionamento de foto e dados pessoais com flexbox

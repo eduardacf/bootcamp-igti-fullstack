@@ -1,0 +1,6 @@
+Check ✓
+
+(✓) Criar um formulário de cadastro simples
+   exemplificando alguns elementos importantes
+(✓) Manipular o formulário com JavaScript
+

@@ -1,0 +1,48 @@
+﻿Check ✓
+
+Parte 01 - Estruturas de decisão - if/else
+------------------------------------------
+
+(✓) Abrir Developer Tools no Chrome
+(✓) Testar algumas proposições lógicas
+(✓) Abrir script.js e testar implementações com if/else
+(✓) Implementar algoritmo de comparação entre dois números
+
+
+Parte 02 - Estruturas de decisão - switch
+-----------------------------------------
+
+(✓) Implementar exemplo de validação de dia da semana com if/else
+(✓) Reimplementar com switch
+
+
+Parte 03 - Estruturas de decisão - Operador ternário
+----------------------------------------------------
+
+(✓) Reimplementar comparação entre dois números com operador ternário
+
+
+Parte 04 - Estruturas de repetição - While
+------------------------------------------
+
+(✓) Mostrar exemplo de somatório de números até x
+(✓) Mostrar exemplo de loop infinito
+
+
+Parte 05 - Estruturas de repetição - do... while
+------------------------------------------------
+
+(✓) Mostrar exemplo de somatório de números até x
+
+
+Parte 06 - Estruturas de repetição - for
+----------------------------------------
+
+(✓) Mostrar exemplo de somatório de números até x
+
+
+Parte 07 - Funções
+------------------
+
+(✓) Implementar algumas funções
+
