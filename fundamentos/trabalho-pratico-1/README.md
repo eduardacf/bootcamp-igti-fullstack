@@ -1,6 +1,6 @@
 ## Trabalho Prático - Módulo 1
 
-![](https://github.com/eduardacf/bootcamp-igti-fullstack/blob/master/fundamentos/img/preview.gif)
+![](https://github.com/eduardacf/bootcamp-igti-fullstack/blob/master/fundamentos/trabalho-pratico-1/img/preview.gif)
 
 - **Construção utilizando HTML, CSS e JavaScript puro, de uma aplicação para a visualização de cores a partir da escala RGB.**
 ------------
