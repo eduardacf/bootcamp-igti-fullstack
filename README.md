@@ -45,4 +45,15 @@ Bootcamp Desenvolvedor Full Stack - IGTI
 
 ## Trabalhos desenvolvidos ao longo do curso:
 
-- [Seletor de cores](http://https://github.com/eduardacf/bootcamp-igti-fullstack/tree/master/fundamentos/trabalho-pratico-1 "Seletor de cores")
+*Módulo 1:
+*
+- [Seletor de cores](https://github.com/eduardacf/bootcamp-igti-fullstack/tree/master/fundamentos/trabalho-pratico-1 "Seletor de cores")
+- [Pesquisa de usuários](https://github.com/eduardacf/bootcamp-igti-fullstack/tree/master/fundamentos/desafio-pesquisa-usu%C3%A1rioshttp:// "Pesquisa de usuários")
+- [Países Favoritos](https://github.com/eduardacf/bootcamp-igti-fullstack/tree/master/fundamentos/aula-17-exercicio-paises-favoritos "Países Favoritos")
+
+*Módulo 2:
+*
+*Módulo 3:
+*
+*Módulo 4:
+*
