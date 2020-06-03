@@ -1,0 +1,9 @@
+Check ✓
+
+(✓) Mostrar exemplo com setTimeout
+(✓) Mostrar exemplo com setInterval
+(✓) Cancelar setInterval com clearInterval
+
+Exemplo: contador que mostra números de um em um a cada segundo e,
+quando o número for um múltiplo de 5, mostra +0,5 após
+meio segundo. Criar botão para cancelar a execução.

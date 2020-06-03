@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <title>Desafio - Pesquisa de Usuários</title>
+  </head>
+  <body>
+    <div class="quadro">
+    <h1>Pesquisa de Usuários</h1>
+    <img id="icone" src ="img/icone.png">
+    <div class="pesquisa-pessoas">
+      <input type="text" id="inputPesquisar" placeholder="Pesquisar"></input>
+    </div>
+
+    <div id="container">
+      <div class="quadro-users">
+        <span> <span id="contadorUsers"></span> Usuário(s) encontrados(s)</span>
+        <div id="exibicaoUsers"></div>
+      </div>
+
+      <div class="quadro-estatisticas">
+        <span>Estatísticas</span>
+        <div id="estatisticas">
+          <ul >
+            <li type="none">Sexo Masculino: <span id="contadorSexoM"></span></li>
+            <li type="none">Sexo Feminino: <span id="contadorSexoF"></span></li>
+            <li type="none">Soma das idades: <span id="contadorSomaIdades"></span></li>
+            <li type="none">Média das idades: <span id="contadorMediaIdades"></span></li>
+          </ul>
+        </div> 
+      </div>
+      
+    </div>
+</div>
+    <script src="./js/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,69 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: lightslategray;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+#icone {
+  position: absolute;
+  width: 250px;
+  margin-top: 2%;
+  margin-left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.pesquisa-pessoas,
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+}
+
+.pesquisa-pessoas {
+  padding-bottom: 20px;
+  margin-top: 150px;
+}
+
+.quadro-users {
+  border: 1px solid cadetblue;
+  margin-right: 10px;
+  width: 25%;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.quadro-estatisticas {
+  border: 1px solid cadetblue;
+  margin-right: 10px;
+  width: 25%;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.estatisticas {
+  height: 130px;
+}
+
+.add {
+  border-radius: 30%;
+  font-weight: bold;
+}
+
+#users-list-grid {
+  padding-top: 10px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#inputPesquisar {
+  border: 2px;
+  border-bottom: 1px solid lightslategray;
+  width: 50%;
+  font-size: 30px;
+}
