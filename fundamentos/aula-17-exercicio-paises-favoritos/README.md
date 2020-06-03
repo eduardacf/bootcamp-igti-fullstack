@@ -1,4 +1,4 @@
-###Exercício Guiado 02 - Módulo 01
+## Exercício Guiado 02 - Módulo 01
 
 ![](https://github.com/eduardacf/bootcamp-igti-fullstack/blob/master/fundamentos/aula-17-exercicio-paises-favoritos/img/preview.gif)
 
