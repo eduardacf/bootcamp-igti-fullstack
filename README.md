@@ -50,9 +50,3 @@ Bootcamp Desenvolvedor Full Stack - IGTI
 - [Pesquisa de usuários](https://github.com/eduardacf/bootcamp-igti-fullstack/tree/master/fundamentos/desafio-pesquisa-usu%C3%A1rios "Pesquisa de usuários")
 - [Países Favoritos](https://github.com/eduardacf/bootcamp-igti-fullstack/tree/master/fundamentos/aula-17-exercicio-paises-favoritos "Países Favoritos")
 
-*Módulo 2:
-*
-*Módulo 3:
-*
-*Módulo 4:
-*
